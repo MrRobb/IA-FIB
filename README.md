@@ -8,33 +8,33 @@
 
 ## 2.1 Búsqueda ciega
 
-[Representación](./Búsqueda\ ciega/Representación.md)
+[Representación](./Búsqueda%20ciega/Representación.md)
 
-[BFS](./Búsqueda\ ciega/BFS.md)
+[BFS](./Búsqueda%20ciega/BFS.md)
 
-[DFS](./Búsqueda\ ciega/DFS.md)
+[DFS](./Búsqueda%20ciega/DFS.md)
 
-[IDDFS](./Búsqueda\ ciega/IDDFS.md)
+[IDDFS](./Búsqueda%20ciega/IDDFS.md)
 
 ### 2.2 Búsqueda heurística
 
-[Branch and bound](./Búsqueda\ heurística/Branch\ &\ Bound.md)
+[Branch and bound](./Búsqueda%20heurística/Branch%20&%20Bound.md)
 
-[Greedy Best First](./Búsqueda\ heurística/Greedy\ Best\ First.md)
+[Greedy Best First](./Búsqueda%20heurística/Greedy%20Best%20First.md)
 
-[A*](./Búsqueda\ heurística/A*.md)
+[A*](./Búsqueda%20heurística/A*.md)
 
-[IDA*](./Búsqueda\ heurística/IDA*.md)
+[IDA*](./Búsqueda%20heurística/IDA*.md)
 
-[Recursive Best-first](./Búsqueda\ heurística/Recursive\ Best-first.md)
+[Recursive Best-first](./Búsqueda%20heurística/Recursive%20Best-first.md)
 
-[Heurísticos](./Búsqueda\ heurística/Heurísticos.md)
+[Heurísticos](./Búsqueda%20heurística/Heurísticos.md)
 
 ## 2.3 Búsqueda local
 
-[Búsqueda local](./Búsqueda\ local/Búsqueda\ local.md)
+[Búsqueda local](./Búsqueda%20local/Búsqueda%20local.md)
 
-[Hill Climbing](./Búsqueda\ local/Hill\ Climbing.md)
+[Hill Climbing](./Búsqueda%20local/Hill%20Climbing.md)
 
 Minimax
 
