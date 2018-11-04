@@ -4,37 +4,37 @@
 
 ### 1. Introducción a la IA
 
-[Introducción](Introducción/Introducción.md)
+[Introducción](./Introducción/Introducción.md)
 
 ## 2.1 Búsqueda ciega
 
-[Representación](Búsqueda\ ciega/Representación.md)
+[Representación](./Búsqueda\ ciega/Representación.md)
 
-[BFS](Búsqueda\ ciega/BFS.md)
+[BFS](./Búsqueda\ ciega/BFS.md)
 
-[DFS](Búsqueda\ ciega/DFS.md)
+[DFS](./Búsqueda\ ciega/DFS.md)
 
-[IDDFS](Búsqueda\ ciega/IDDFS.md)
+[IDDFS](./Búsqueda\ ciega/IDDFS.md)
 
 ### 2.2 Búsqueda heurística
 
-[Branch and bound](Búsqueda\ heurística/Branch\ &\ Bound.md)
+[Branch and bound](./Búsqueda\ heurística/Branch\ &\ Bound.md)
 
-[Greedy Best First](Búsqueda\ heurística/Greedy\ Best\ First.md)
+[Greedy Best First](./Búsqueda\ heurística/Greedy\ Best\ First.md)
 
-[A*](Búsqueda\ heurística/A*.md)
+[A*](./Búsqueda\ heurística/A*.md)
 
-[IDA*](Búsqueda\ heurística/IDA*.md)
+[IDA*](./Búsqueda\ heurística/IDA*.md)
 
-[Recursive Best-first](Búsqueda\ heurística/Recursive\ Best-first.md)
+[Recursive Best-first](./Búsqueda\ heurística/Recursive\ Best-first.md)
 
-[Heurísticos](Búsqueda\ heurística/Heurísticos.md)
+[Heurísticos](./Búsqueda\ heurística/Heurísticos.md)
 
 ## 2.3 Búsqueda local
 
-[Búsqueda local](Búsqueda\ local/Búsqueda\ local.md)
+[Búsqueda local](./Búsqueda\ local/Búsqueda\ local.md)
 
-[Hill Climbing](Búsqueda\ local/Hill\ Climbing.md)
+[Hill Climbing](./Búsqueda\ local/Hill\ Climbing.md)
 
 Minimax
 
@@ -76,11 +76,11 @@ $$N = max(20\%\ NP + 40\%\ NF,\ 60\%\ NF)\ +\ 35\%\ L\ +\ 5\%\ N_{innovation}$$
 
 ## Profesores
 
-#### Javier Vázquez Salceda (responsable)
+#### Javier Vázquez Salceda (responsable)
 - email: jvazquez@cs.upc.edu
 
 #### Maria Teresa Abad Soriano
 - email: mabad@cs.upc.edu
 
-#### Javier Béjar Alonso
+#### Javier Béjar Alonso
 - email: bejar@cs.upc.edu
