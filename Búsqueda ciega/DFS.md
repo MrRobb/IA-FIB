@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://github.com/MrRobb/Artificial-Intelligence">
-        <img src="http://latex2png.com/output//latex_4d1f61e1a99e07a737bd98c88d97ff0b.png" width=35%>
+        <img src="http://latex2png.com/output//latex_4d1f61e1a99e07a737bd98c88d97ff0b.png" width=15%>
     </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
     <a href="https://github.com/MrRobb/Artificial-Intelligence">
-        <img src="http://latex2png.com/output//latex_6188448ce1a84f11c7af1bb372ab58df.png" width=35%>
+        <img src="http://latex2png.com/output//latex_6188448ce1a84f11c7af1bb372ab58df.png" width=7%>
     </a>
 </p>
 
