@@ -5,7 +5,7 @@
 [Breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 ## Propiedades
-
+ 
 - **Se usa una cola**
 - Es completo
 - Complejidad temporal y espacial:
