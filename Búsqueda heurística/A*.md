@@ -7,7 +7,7 @@ Sep 17, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [A* search algorithm - Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
@@ -15,7 +15,7 @@ Sep 17, 2018
 
 # Propiedades
 
----
+
 
 $$f(n) = g(n) + h(n)$$
 
@@ -25,7 +25,7 @@ $$f(n) = g(n) + h(n)$$
 
 # Código
 
----
+
 
     double h(Node n);    // devuelve la distancia hasta la solución
     double g(Node n);    // devuelve el coste el coste del camino recorrido

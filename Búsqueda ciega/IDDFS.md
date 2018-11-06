@@ -4,7 +4,7 @@
 
 # Propiedades
 
----
+
 
 - Vas aumentando el límite de profundidad de manera dinámica.
 - Cada iteración (cuando aumentas la profundidad límite) vuelve a iterar por todos los nodos anteriores ya que comparado con el último nivel expandido, es negligible.
@@ -20,7 +20,7 @@ $$O(distance_{to\ solution})$$
 
 # Código (c++)
 
----
+
 
     bool Graph::DLS(int src, int target, int limit) 
     { 

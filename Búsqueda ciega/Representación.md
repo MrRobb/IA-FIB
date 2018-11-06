@@ -7,11 +7,11 @@ Sep 10, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 # Resolución de problemas
 
----
+
 
 Para resolver un problema necesitamos 2 cosas:
 
@@ -20,7 +20,7 @@ Para resolver un problema necesitamos 2 cosas:
 
 # Representación del estado
 
----
+
 
 ## Tipos de representación
 
@@ -49,7 +49,7 @@ Hay varios tipos de representaciones de problemas:
 
 # Solución
 
----
+
 
 ## Tipos
 
@@ -68,7 +68,7 @@ Hay varios tipos de representaciones de problemas:
 
 # Descripción de un problema
 
----
+
 
 - Descripción del **espacio** de estados → qué se guarda
 - Estado **inicial**

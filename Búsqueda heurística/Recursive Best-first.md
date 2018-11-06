@@ -7,7 +7,7 @@ Sep 20, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [Best-first search - Wikipedia](https://en.wikipedia.org/wiki/Best-first_search)
 
@@ -15,7 +15,7 @@ Sep 20, 2018
 
 # Propiedades
 
----
+
 
 - Permite que el coste espacial se mantenga lineal al no tener que guardar mas que los nodos que pertenecen al camino actual y sus hermanos en cada nivel.
 - Usa la función heurística h()
@@ -24,7 +24,7 @@ Sep 20, 2018
 
 # Código
 
----
+
 
     double h(Node n);    // devuelve la distancia hasta la solución
     

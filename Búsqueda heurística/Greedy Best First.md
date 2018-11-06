@@ -7,7 +7,7 @@ Sep 17, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [Is Greedy best-first search different from Best-first search?](https://stackoverflow.com/questions/8374308/is-greedy-best-first-search-different-from-best-first-search)
 
@@ -15,7 +15,7 @@ Sep 17, 2018
 
 # Propiedades
 
----
+
 
 - Usa el heurístico que estima la distancia a la solución: función h() → distancia desde el punto actual hasta la solución.
 - Por lo tanto, ordena la exploración según aquel camino que según el heurístico, está más cerca de la solución.
@@ -24,7 +24,7 @@ Sep 17, 2018
 
 # Código
 
----
+
 
     double h(Node n);    // devuelve la distancia hasta la solución
     

@@ -7,13 +7,13 @@ Sep 17, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [Branch and bound - Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
 
 # Propiedades
 
----
+
 
 - Usa el heurístico de coste: función g() → suma de costes por moverse hacia un nodo.
 - Cada operador (debería tener) un coste diferente, coste > 0
@@ -21,7 +21,7 @@ Sep 17, 2018
 
 # Código (pseudo c++, sí, me lo acabo de inventar)
 
----
+
 
     double g(Node n);    // devuelve el coste el coste del camino recorrido
     

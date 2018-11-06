@@ -7,13 +7,13 @@ Sep 20, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [Iterative deepening A* - Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
 
 # Propiedades
 
----
+
 
 - Para reducir memoria voy aumentando la profundidad = f().
 - **Poda según la función f()** (aka. profundidad) no sobre los niveles. Por lo tanto, voy haciendo un DFS podando según la función f()
@@ -21,7 +21,7 @@ Sep 20, 2018
 
 # Código
 
----
+
 
     double h(Node n);    // devuelve la distancia hasta la solución
     double g(Node n);    // devuelve el coste el coste del camino recorrido

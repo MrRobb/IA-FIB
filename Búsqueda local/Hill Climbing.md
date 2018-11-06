@@ -7,18 +7,18 @@ Sep 27, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 # Tipos
 
----
+
 
 - Escalada simple → saltamos a cualquier solución mejor que la actual.
 - Escalada máxima pendiente (steepest-ascent hill climbing, gradient search) → se escoge la solución con la mejor pendiente.
 
 # Propiedades
 
----
+
 
 - Solo explora descendientes mejores.
 - No usa backtracking.
@@ -39,7 +39,7 @@ Sep 27, 2018
 
 # Código
 
----
+
 
     bool isWorse(Sol n1, Sol n2); // devuelve si n1 es peor que n2
     

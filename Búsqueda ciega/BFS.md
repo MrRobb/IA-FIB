@@ -7,13 +7,13 @@ Sep 13, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [Breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 # Propiedades
 
----
+
 
 - **Se usa una cola**
 - Es completo
@@ -25,7 +25,7 @@ $$O({ramificacion}^{profundidad})$$
 
 # Algoritmo (c++)
 
----
+
 
     void Graph::BFS(int s) 
     { 

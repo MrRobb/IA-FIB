@@ -7,13 +7,13 @@ Sep 13, 2018
 - [x]  Apuntes al día
 - [x]  Tema terminado
 
----
+
 
 [Depth-first search - Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
 
 # Propiedades
 
----
+
 
 - **Se usa una pila**
 - Es completo solamente si existe un límite de profundidad y existe una solución dentro de ese límite.
@@ -29,7 +29,7 @@ $$O(n)$$
 
 # Código (c++)
 
----
+
 
     void Graph::DFSUtil(int v, bool visited[]) 
     { 
