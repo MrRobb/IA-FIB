@@ -12,11 +12,19 @@
 - Cada iteración (cuando aumentas la profundidad límite) vuelve a iterar por todos los nodos anteriores ya que comparado con el último nivel expandido, es negligible.
 - Complejidad temporal (imita un BFS):
 
-$$O({ramificacion}^{profundidad})$$
+<p align="center">
+    <a href="https://github.com/MrRobb/IA-FIB">
+        <img src="http://latex2png.com/output//latex_3999d74d104ca6b710a7ac3264f88b5e.png" width=35%>
+    </a>
+</p>
 
 - Complejidad espacial (con el espacio de un DFS):
 
-$$O(distance_{to\ solution})$$
+<p align="center">
+    <a href="https://github.com/MrRobb/IA-FIB">
+        <img src="http://latex2png.com/output//latex_55cc3151b73185158270706e9b3c790c.png" width=30%>
+    </a>
+</p>
 
 - Optimalidad: Sí. Encuentra el camino más corto.
 
