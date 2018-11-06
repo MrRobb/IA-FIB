@@ -20,7 +20,11 @@ Hay varios tipos de representaciones de problemas:
 
 ### Elementos:
 
-![](../Images/Búsqueda.png)
+<p align="center">
+	<a href="https://github.com/MrRobb/Artificial-Intelligence">
+		<img src="../Images/Búsqueda.png" width=55%>
+	</a>
+</p>
 
 **Estado inicial:** conjunto de **características iniciales** del problema.
 
