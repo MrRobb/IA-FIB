@@ -13,7 +13,7 @@
 - Complejidad temporal y espacial:
 
 <p align="center">
-    <a href="https://github.com/MrRobb/Artificial-Intelligence">
+    <a href="https://github.com/MrRobb/IA-FIB">
         <img src="http://latex2png.com/output//latex_3999d74d104ca6b710a7ac3264f88b5e.png" width=35%>
     </a>
 </p>
