@@ -20,7 +20,7 @@ $$O(n)$$
 
 - Optimalidad: Si definimos óptimo como encontrar el camino más corto de un estado a otro, DFS no es óptimo.
 
-## Código (c++)
+## Código (C++)
 
 ```cpp
 void Graph::DFSUtil(int v, bool visited[])

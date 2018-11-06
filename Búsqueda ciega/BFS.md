@@ -2,6 +2,8 @@
 
 [Transparencias - Búsqueda ciega.pdf](./Búsqueda%20Ciega.pdf)
 
+#### Wikipedia
+
 [Breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 ## Propiedades
@@ -18,7 +20,7 @@
 
 - Optimalidad: Encuentra el estado solución que está más cerca de la raiz. Por lo tanto, si usar menos operadores significa que la solución es más óptima, entonces se podría considerar óptimo.
 
-## Algoritmo (c++)
+## Código (C++)
 
 ```cpp
 void Graph::BFS(int s)
