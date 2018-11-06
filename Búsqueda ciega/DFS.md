@@ -12,11 +12,19 @@
 - Es completo solamente si existe un límite de profundidad y existe una solución dentro de ese límite.
 - Complejidad temporal (en caso de que no haya repeticiones):
 
-$$O(n+m)$$
+<p align="center">
+    <a href="https://github.com/MrRobb/Artificial-Intelligence">
+        <img src="http://latex2png.com/output//latex_4d1f61e1a99e07a737bd98c88d97ff0b.png" width=35%>
+    </a>
+</p>
 
 - Complejidad espacial:
 
-$$O(n)$$
+<p align="center">
+    <a href="https://github.com/MrRobb/Artificial-Intelligence">
+        <img src="http://latex2png.com/output//latex_6188448ce1a84f11c7af1bb372ab58df.png" width=35%>
+    </a>
+</p>
 
 - Optimalidad: Si definimos óptimo como encontrar el camino más corto de un estado a otro, DFS no es óptimo.
 
