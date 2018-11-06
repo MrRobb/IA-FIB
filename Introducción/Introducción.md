@@ -2,10 +2,7 @@
 
 Sep 06, 2018
 
-[Introducción.pdf](Introduccion-7152d182-b4f3-4fca-b24c-58e313722127.pdf)
-
-- [x]  Apuntes al día
-- [x]  Tema terminado
+[Transparencias - Introducción.pdf](./Introducción.pdf)
 
 ### AIMA (aka. la Biblia de la IA)
 
@@ -17,6 +14,6 @@ Sep 06, 2018
 
 La imagen de abajo es un resumen de las diversas interpretaciones que se le pueden dar según el objetivo deseado.
 
-![](./Images/Intro.png)
+![image](../Images/Intro.png)
 
 [![Video](https://img.youtube.com/vi/39EdqUbj92U/0.jpg)](https://www.youtube.com/watch?v=39EdqUbj92U)
