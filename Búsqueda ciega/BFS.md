@@ -4,7 +4,7 @@
 
 [Breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
 
-# Propiedades
+## Propiedades
 
 - **Se usa una cola**
 - Es completo
@@ -18,7 +18,7 @@
 
 - Optimalidad: Encuentra el estado solución que está más cerca de la raiz. Por lo tanto, si usar menos operadores significa que la solución es más óptima, entonces se podría considerar óptimo.
 
-# Algoritmo (c++)
+## Algoritmo (c++)
 
 ```cpp
 void Graph::BFS(int s)
