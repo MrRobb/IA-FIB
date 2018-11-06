@@ -20,7 +20,7 @@ Hay varios tipos de representaciones de problemas:
 
 ### Elementos:
 
-![](./Búsqueda.png)
+![](../Búsqueda.png)
 
 **Estado inicial:** conjunto de **características iniciales** del problema.
 
