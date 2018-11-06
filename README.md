@@ -2,73 +2,18 @@
 
 # Teoría
 
-### 1. Introducción a la IA
-
-[Introducción](./Introducción/Introducción.md)
-
-## 2.1 Búsqueda ciega
-
-[Representación](./Búsqueda%20ciega/Representación.md)
-
-[BFS](./Búsqueda%20ciega/BFS.md)
-
-[DFS](./Búsqueda%20ciega/DFS.md)
-
-[IDDFS](./Búsqueda%20ciega/IDDFS.md)
-
-### 2.2 Búsqueda heurística
-
-[Branch and bound](./Búsqueda%20heurística/Branch%20&%20Bound.md)
-
-[Greedy Best First](./Búsqueda%20heurística/Greedy%20Best%20First.md)
-
-[A*](./Búsqueda%20heurística/A*.md)
-
-[IDA*](./Búsqueda%20heurística/IDA*.md)
-
-[Recursive Best-first](./Búsqueda%20heurística/Recursive%20Best-first.md)
-
-[Heurísticos](./Búsqueda%20heurística/Heurísticos.md)
-
-## 2.3 Búsqueda local
-
-[Búsqueda local](./Búsqueda%20local/Búsqueda%20local.md)
-
-[Hill Climbing](./Búsqueda%20local/Hill%20Climbing.md)
-
-Minimax
-
-Alpha-beta pruning
-
-Satisfacción de restricciones
-
-## 3. Knowledge-based problems
-
-Sistemas de producción
-
-Representaciones estructuradas
-
-Ontologías
-
-Ingeniería del conocimiento
-
-Adquisición
-
-Razonamiento aproximado
-
-## 4. Planificación
-
-Resolución de problemas
-
-Planificación lineal
-
-Planificación jerárquica
-
-## 5. Machine Learning
-
-Introducción
-
-## 6. Otros
+| Introducción                                   	| Búsqueda ciega                                         	| Búsqueda heurística                                                       	| Búsqueda local                                            	| Knowledge-based problems       	| Planificación            	| Machine Learning     	| Otros 	|
+|------------------------------------------------	|--------------------------------------------------------	|---------------------------------------------------------------------------	|-----------------------------------------------------------	|--------------------------------	|--------------------------	|----------------------	|-------	|
+| Transparencias                                 	| Transparencias                                         	| Transparencias                                                            	| Transparencias                                            	| Transparencias                 	| Transparencias           	| Transparencias       	|       	|
+|                                                	|                                                        	|                                                                           	|                                                           	|                                	|                          	|                      	|       	|
+| [Introducción](./Introducción/Introducción.md) 	| [Representación](./Búsqueda%20ciega/Representación.md) 	| [Branch and bound](./Búsqueda%20heurística/Branch%20&%20Bound.md)         	|  [Búsqueda local](./Búsqueda%20local/Búsqueda%20local.md) 	| Sistemas de producción         	| Resolución de problemas  	| Introducción         	|       	|
+|                                                	| [BFS](./Búsqueda%20ciega/BFS.md)                       	| [Greedy Best First](./Búsqueda%20heurística/Greedy%20Best%20First.md)     	| [Hill Climbing](./Búsqueda%20local/Hill%20Climbing.md)    	| Representaciones estructuradas 	| Planificación lineal     	|                      	|       	|
+|                                                	| [DFS](./Búsqueda%20ciega/DFS.md)                       	| [A*](./Búsqueda%20heurística/A*.md)                                       	| Minimax                                                   	| Ontologías                     	| Planificación jerárquica 	|                      	|       	|
+|                                                	| [IDDFS](./Búsqueda%20ciega/IDDFS.md)                   	| [IDA*](./Búsqueda%20heurística/IDA*.md)                                   	| Alpha-beta pruning                                        	| Ingeniería del conocimiento    	|                          	|                      	|       	|
+|                                                	|                                                        	| [Recursive Best-first](./Búsqueda%20heurística/Recursive%20Best-first.md) 	| Satisfacción de restricciones                             	| Adquisición                    	|                          	|                      	|       	|
+|                                                	|                                                        	| [Heurísticos](./Búsqueda%20heurística/Heurísticos.md)                     	|                                                           	| Razonamiento aproximado        	|                          	|                      	|       	|
+|                                                	|                                                        	|                                                                           	|                                                           	|                                	|                          	|                      	|       	|
+| Introducción.pdf                               	| Búsqueda ciega.pdf                                     	| Búsqueda heurística.pdf                                                   	| Búsqueda local.pdf                                        	| Knowledge-based problems.pdf   	| Planificación.pdf        	| Machine Learning.pdf 	|       	|
 
 ## Evaluación
 
