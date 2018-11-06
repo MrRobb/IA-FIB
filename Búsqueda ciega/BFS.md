@@ -1,6 +1,6 @@
 # BFS
 
-[Transparencias - Búsqueda ciega.pdf](./Búsqueda Ciega.pdf)
+[Transparencias - Búsqueda ciega.pdf](./Búsqueda%20Ciega.pdf)
 
 [Breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
 
@@ -10,7 +10,11 @@
 - Es completo
 - Complejidad temporal y espacial:
 
-![img](http://latex2png.com/output//latex_3999d74d104ca6b710a7ac3264f88b5e.png)
+<p align="center">
+	<a href="https://github.com/MrRobb/Artificial-Intelligence">
+		<img src="http://latex2png.com/output//latex_3999d74d104ca6b710a7ac3264f88b5e.png" width=35%>
+	</a>
+</p>
 
 - Optimalidad: Encuentra el estado solución que está más cerca de la raiz. Por lo tanto, si usar menos operadores significa que la solución es más óptima, entonces se podría considerar óptimo.
 
