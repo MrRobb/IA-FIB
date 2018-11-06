@@ -17,7 +17,7 @@
 
 ## Evaluación
 
-$$N = max(20\%\ NP + 40\%\ NF,\ 60\%\ NF)\ +\ 35\%\ L\ +\ 5\%\ N_{innovation}$$
+![](http://latex2png.com/output//latex_2aa8480b036a913c21d59754fd910849.png)
 
 ## Profesores
 
