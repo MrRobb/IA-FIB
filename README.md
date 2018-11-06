@@ -1,7 +1,7 @@
 # IA - Inteligencia Artificial
 
 [![HitCount](http://hits.dwyl.io/mrrobb/IA-FIB.svg)]()
-[![Github Stars](http://githubbadges.com/star.svg?user=mrrobb&repo=IA-FIB&style=flat&color=fff&background=000)](https://github.com/MrRobb/IA-FIB)
+[![GitHub Starts](https://img.shields.io/github/stars/mrrobb/IA-FIB.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mrrobb/IA-FIB/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/mrrobb/IA-FIB.svg)](https://github.com/MrRobb/IA-FIB)
 
