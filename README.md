@@ -1,5 +1,10 @@
 # IA - Inteligencia Artificial
 
+[![HitCount](http://hits.dwyl.io/mrrobb/IA-FIB.svg)]()
+[![Github Stars](http://githubbadges.com/star.svg?user=mrrobb&repo=IA-FIB&style=flat&color=fff&background=000)](https://github.com/MrRobb/IA-FIB)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/mrrobb/IA-FIB.svg)](https://github.com/MrRobb/IA-FIB)
+
 # Teoría
 
 | Introducción                                   	| Búsqueda ciega                                         	| Búsqueda heurística                                                       	| Búsqueda local                                            	| Knowledge-based problems       	| Planificación            	| Machine Learning     	| Otros 	|
