@@ -2,7 +2,7 @@
 
 Sep 27, 2018
 
-[Búsqueda local.pdf](Busquedalocal-a229d311-a389-4c7b-94cc-324ed147f11b.pdf)
+[Búsqueda local.pdf](Busquedalocal-a229d311-a389-4c7b-94cc-324ed147f11b.pdf)
 
 - [x]  Apuntes al día
 - [x]  Tema terminado
@@ -40,7 +40,7 @@ Sep 27, 2018
 # Código
 
 
-
+```cpp
     bool isWorse(Sol n1, Sol n2); // devuelve si n1 es peor que n2
     
     Sol actual = getInicial();
